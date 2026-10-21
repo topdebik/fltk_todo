@@ -1,0 +1,25 @@
+# Каталоги сборки
+build/
+cmake-build-*/
+out/
+
+# Служебные файлы CMake/IDE
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+.cache/
+.vscode/
+.idea/
+
+# Объектные файлы и бинарники
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+todo
+todo_model_tests
+todo_ui_tests
+
+LESSON.md
